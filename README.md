@@ -1,2 +1,2 @@
 # AILabs
-Playground for tinkering with AI related stuff.
+ Playground for tinkering with AI related stuff.
